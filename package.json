@@ -1,0 +1,25 @@
+{
+  "name": "chatbot-workshop",
+  "version": "1.0.0",
+  "description": "April 2017 MSP Workshop",
+  "main": "bot.js",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "recastai": "^3.2.0",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ROODAY/Chatbot-Workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ROODAY/Chatbot-Workshop/issues"
+  },
+  "homepage": "https://github.com/ROODAY/Chatbot-Workshop#readme"
+}
